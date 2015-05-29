@@ -12,3 +12,7 @@
 [submodule "bootini"]
 	path = bootini
 	url = https://github.com/mdrjr/5422_bootini.git
+[submodule "kodi"]
+	path = kodi
+	url = https://github.com/mdrjr/xbmc.git
+	branch = 5422_helix
