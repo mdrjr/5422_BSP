@@ -1,6 +1,6 @@
 # Exynos 5422 BSP for ODROID boards
 
-**5422_platform_configs: **
+**5422_platform_configs:**
   - 10-odroid.rules: udev rules for Mali, CEC, Serial Console"
   - blacklist-odorid.conf: blacklist ioboard modules
   - xorg.conf: Xorg configuration file
