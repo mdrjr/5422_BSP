@@ -9,3 +9,6 @@
 [submodule "5422_platform_configs"]
 	path = 5422_platform_configs
 	url = https://github.com/mdrjr/5422_platform.git
+[submodule "bootini"]
+	path = bootini
+	url = https://github.com/mdrjr/5422_bootini.git
