@@ -2,3 +2,7 @@
 	path = mali
 	url = https://github.com/mdrjr/5422_mali.git
 	branch = r5p1
+[submodule "armsoc_ddx"]
+	path = armsoc_ddx
+	url = https://github.com/mdrjr/xf86-video-armsoc.git
+	branch = 5422_r5p1
