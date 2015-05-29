@@ -1,3 +1,4 @@
 [submodule "mali"]
 	path = mali
 	url = https://github.com/mdrjr/5422_mali.git
+	branch = r5p1
