@@ -16,3 +16,7 @@
 	path = kodi
 	url = https://github.com/mdrjr/xbmc.git
 	branch = 5422_helix
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/hardkernel/linux.git
+	branch = odroidxu3-3.10.y
