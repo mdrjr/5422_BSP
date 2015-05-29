@@ -6,3 +6,6 @@
 	path = armsoc_ddx
 	url = https://github.com/mdrjr/xf86-video-armsoc.git
 	branch = 5422_r5p1
+[submodule "5422_platform_configs"]
+	path = 5422_platform_configs
+	url = https://github.com/mdrjr/5422_platform.git
