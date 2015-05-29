@@ -1,4 +1,4 @@
-# 5422_BSP
+# Exynos 5422 BSP for ODROID boards
 
 5422_platform_configs:
   - 10-odroid.rules: udev rules for Mali, CEC, Serial Console"
