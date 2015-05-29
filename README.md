@@ -20,3 +20,8 @@
   
 **kernel:**
   - Linux kernel 3.10.y based on Samsung integration patch's
+  - For build instructions refer to this: http://odroid.com/dokuwiki/doku.php?id=en:xu3_ubuntu_release_note_20150523&#linux_kernel
+
+**Kodi:**
+  - Based on 14.2 with @Owersun Exynos MFC Patch's
+  - Build instructions: Refer to build_kodi.sh file
